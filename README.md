@@ -1,6 +1,6 @@
 # DrumKit
 
-This is a exercices for The Complete 2023 Web Development Bootcamp(https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+This is a exercices for [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
 With a simple virtual drum kit built with HTML, CSS, and JavaScript. You can play different drum sounds by clicking on the drum images or pressing the corresponding keys on your keyboard.
 
@@ -25,5 +25,8 @@ You can see a live demonstration of the DrumKit here: [DrumKit Demo](https://jai
 
 3. Have fun creating your own melodies!
 
+## Acknowledgments
 
+I would like to take this opportunity to express my heartfelt gratitude and appreciation to the instructor of this Bootcamp: [Dr. Angela Yu]([https://github.com/boton](https://www.udemy.com/course/the-complete-web-development-bootcamp/#instructor-1)).
+A great profesional and better person.
 
