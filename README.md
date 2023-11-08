@@ -27,6 +27,6 @@ You can see a live demonstration of the DrumKit here: [DrumKit Demo](https://jai
 
 ## Acknowledgments
 
-I would like to take this opportunity to express my heartfelt gratitude and appreciation to the instructor of this Bootcamp: [Dr. Angela Yu]([https://github.com/boton](https://www.udemy.com/course/the-complete-web-development-bootcamp/#instructor-1)).
+I would like to take this opportunity to express my heartfelt gratitude and appreciation to the instructor of this Bootcamp: [Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/#instructor-1).
 A great profesional and better person.
 
